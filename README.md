@@ -4,6 +4,7 @@ nb插件-服务器运行信息<br />
 <br />
 样式可自行修改<br />
 返回内容也可自行修改<br />
+(修改SystemInfo 中的 get_status 函数)<br />
 默认：<br />
 <br />
 ====qiqi-bot|status====<br />
